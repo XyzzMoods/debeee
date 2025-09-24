@@ -1,12 +1,16 @@
-[
-  {
-    "username": "admin",
-    "password": "12345",
-    "role": "owner"
-  },
-  {
-    "username": "user1",
-    "password": "abcd",
-    "role": "member"
-  }
-]
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "12345"
+    },
+    {
+      "username": "test",
+      "password": "test123"
+    },
+    {
+      "username": "xyz",
+      "password": "moods"
+    }
+  ]
+}
